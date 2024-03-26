@@ -1,0 +1,14 @@
+{
+   "configurations": [
+      {
+         "type": "java",
+         "name": "Spring Boot-CompanymsApplication<companyms>",
+         "request": "launch",
+         "cwd": "${workspaceFolder}",
+         "mainClass": "com.austin.companyms.CompanymsApplication",
+         "projectName": "companyms",
+         "args": "",
+         "envFile": "${workspaceFolder}/.env"
+      }
+   ]
+}
